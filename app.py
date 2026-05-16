@@ -9,7 +9,7 @@ from PIL import Image
 
 st.set_page_config(page_title="Loulune OCR", layout="centered")
 
-st.title("📖 Loulune OCR")
+st.title("📖 Lirabyne OCR")
 st.write("Upload un ZIP contenant les pages du chapitre. Le site récupère le texte anglais et génère un TXT propre.")
 
 @st.cache_resource
