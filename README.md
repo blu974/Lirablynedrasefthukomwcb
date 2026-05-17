@@ -1,11 +1,8 @@
 ---
-title: Loulune OCR
+title: Loulune
 emoji: 📖
 colorFrom: blue
 colorTo: purple
 sdk: docker
 pinned: false
 ---
-
-# Loulune OCR
-OCR privé pour webtoon.
